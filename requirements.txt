@@ -1,6 +1,6 @@
 DAD==1.0.2
 greenlet==0.4.0
-gunicorn==19.1.0
+gunicorn==19.5.0
 pycurl==7.19.0
 rdflib==3.2.3
 redis==2.7.6
